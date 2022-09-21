@@ -93,3 +93,10 @@
         padding-left: 2.5rem;
     }
 }
+
+@media(max-width: 414px) {
+    .layout-wrapper .layout-main-container {
+        margin-left: -9px;
+        padding-left: 0rem;
+    }
+}
