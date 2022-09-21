@@ -13,7 +13,7 @@ const routes = [
                 component: () => import('./components/Dashboard.vue')
             },
             {
-                path: '/city/',
+                path: '/city/:title',
                 name: 'city',
                 component: () => import('./components/vCity')
             },

@@ -1,0 +1,52 @@
+{
+  "prodcut": [
+    {
+      "id": 1,
+      "title": "andijon"
+    },
+    {
+      "id": 2,
+      "title": "namangan"
+    },
+    {
+      "id": 3,
+      "title": "fargona"
+    },
+    {
+      "id": 4,
+      "title": "samarkand"
+    },
+    {
+      "id": 5,
+      "title": "toshkent"
+    },
+    {
+      "id": 6,
+      "title": "buxoro"
+    },
+    {
+      "id": 7,
+      "title": "xiva"
+    },
+    {
+      "id": 8,
+      "title": "jizzax"
+    },
+    {
+      "id": 9,
+      "title": "sirdaryo"
+    },
+    {
+      "id": 10,
+      "title": "surxandaryo"
+    },
+    {
+      "id": 11,
+      "title": "xorezm"
+    },
+    {
+      "id": 12,
+      "title": "qashqadaryo"
+    }
+  ]
+}

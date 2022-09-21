@@ -8,6 +8,7 @@
 	"license": "MIT",
 	"scripts": {
 		"serve": "vue-cli-service serve",
+		"json-start": "json-server --watch db.json",
 		"build": "vue-cli-service build",
 		"lint": "vue-cli-service lint",
 		"test:unit": "vue-cli-service test:unit"
@@ -25,8 +26,10 @@
 		"sass-loader": "^8.0.2"
 	},
 	"dependencies": {
+		"axios": "^0.27.2",
 		"chart.js": "3.3.2",
 		"core-js": "^3.6.5",
+		"json-server": "^0.17.0",
 		"primeflex": "^3.1.2",
 		"primeicons": "^5.0.0",
 		"primevue": "^3.12.2",
